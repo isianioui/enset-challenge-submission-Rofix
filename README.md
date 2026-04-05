@@ -131,6 +131,3 @@ crewai-tools==0.1.6
 langchain-openai==0.1.6
 python-dotenv==1.0.0
 ```
-
----
-
