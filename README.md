@@ -134,15 +134,3 @@ python-dotenv==1.0.0
 
 ---
 
-## 🏆 ENSET Challenge 2026
-
-**Team**: [Your Team Name]
-**Track**: IA Agentique pour l'Éducation
-**Framework**: CrewAI
-**Problem**: Manual course creation is time-consuming and inconsistent. EduAgent automates the entire process using autonomous AI agents.
-
----
-
-## 📄 License
-
-MIT License — see LICENSE file for details.
